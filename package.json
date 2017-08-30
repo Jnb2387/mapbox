@@ -1,0 +1,21 @@
+{
+  "name": "mapdenver",
+  "version": "1.0.0",
+  "description": "mapbox node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "nodemon": "*",
+    "pg": "*"
+  },
+  "author": "Jeffrey",
+  "license": "ISC"
+}
